@@ -21,7 +21,7 @@ decorator==4.0.6
 defer==1.0.6
 dictdiffer==0.8.0
 distlib==0.3.0
-Django==2.1.5
+Django==2.2.10
 django-admin-bootstrapped==2.5.7
 django-bootstrap3==11.0.0
 django-cache-memoize==0.1.6
