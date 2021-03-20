@@ -52,7 +52,7 @@ ipython==2.4.1
 itsdangerous==1.1.0
 jaraco.functools==2.0
 jdcal==1.4
-Jinja2==2.8
+Jinja2==2.11.3
 joblib==0.14.1
 jsonpickle==1.1
 kombu==4.6.8
