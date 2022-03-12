@@ -74,7 +74,7 @@ ortools==7.5.7466
 padme==1.1.1
 pandas==0.24.1
 pexpect==4.0.1
-Pillow==3.1.2
+Pillow==9.0.1
 plainbox==0.25
 portend==2.6
 protobuf==3.11.3
