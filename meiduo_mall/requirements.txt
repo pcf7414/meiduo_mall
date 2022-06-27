@@ -96,7 +96,7 @@ pytz==2019.1
 pyxdg==0.25
 QQLoginTool==0.3.0
 redis==3.2.1
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.21.0
 scikit-learn==0.22
 scipy==1.4.1
