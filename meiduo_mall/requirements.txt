@@ -77,7 +77,7 @@ pexpect==4.0.1
 Pillow==3.1.2
 plainbox==0.25
 portend==2.6
-protobuf==3.11.3
+protobuf==3.18.3
 psycopg2-binary==2.8.2
 ptyprocess==0.5
 pyasn1==0.1.9
